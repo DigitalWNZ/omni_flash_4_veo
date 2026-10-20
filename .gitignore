@@ -1,0 +1,9 @@
+# macOS & Temporary files
+.DS_Store
+__pycache__/
+*.pyc
+drive-download-*/
+drive-download-*.zip
+concat_list*.txt
+omni_video_*.mp4
+omni_auto_style_video_*.mp4
